@@ -2,8 +2,6 @@
 
 A real-time hand gesture recognition system built with Python, OpenCV, MediaPipe, and TensorFlow that can identify common hand gestures through a webcam feed.
 
-![Hand Gesture Recognition Demo](https://via.placeholder.com/800x400?text=Hand+Gesture+Recognition+Demo)
-
 ## Features
 
 - **Real-time hand detection and tracking** using MediaPipe
